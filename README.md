@@ -1,2 +1,2 @@
 ## S2AFormer
-### Accepted by TIP 2025
+Accepted by TIP 2025
